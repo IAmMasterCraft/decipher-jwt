@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A simple node package that can be used to decipher jwt",
   "main": "./src/index.js",
+  "homepage": "https://github.com/IAmMasterCraft/decipher-jwt#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmMasterCraft/decipher-jwt.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/index.js"
@@ -13,7 +18,7 @@
     "decrypt",
     "token"
   ],
-  "author": "MasterCraft",
+  "author": "MasterCraft <bolu.akinsefunmi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.12"

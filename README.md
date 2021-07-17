@@ -2,18 +2,16 @@
     A simple node package that deciphers jwt token into json object
 
 ## Installation
-```  
-     $ npm install jwt
-```
+     $ npm install decipher-jwt
 
 ## Author
-    Boluwaji Akinsefunmi <br>
-    [MasterCraft](https://github.com/IAmMasterCraft)
+    Boluwaji Akinsefunmi
+[MasterCraft](https://github.com/IAmMasterCraft/)
 
 ## Usage
 ```javascript
     const { decipherJwt } = require("decipher-jwt");
-    const jwtToken = "some-jwt-token";
+    const jwtToken = "Bearer xxxxxxxxxxx.xxxxxxxxx.xxxxxxx";
     console.log(decipherJwt(jwtToken));
 ```
 
@@ -21,10 +19,11 @@
 ### Success
 <img src="images/success.png"> <br>
 ### Failure
-<img src="images/faiure.png">
+<img src="images/failure.png">
 
 ## Contributions
-    Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+    Pull requests are welcome. For major changes, please open an issue first 
+    to discuss what you would like to change.
 
 ## License
-    [MIT License](./LICENSE)
+[MIT License](./LICENSE)
