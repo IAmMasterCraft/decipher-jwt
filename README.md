@@ -2,7 +2,10 @@
     A simple node package that deciphers jwt token into json object
 
 ## Installation
+With NPM:
      $ npm install decipher-jwt
+With YARN:
+     $ yarn add decipher-jwt
 
 ## Author
     Boluwaji Akinsefunmi
