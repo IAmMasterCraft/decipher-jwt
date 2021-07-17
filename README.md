@@ -7,9 +7,8 @@
 
 ## Author
     Boluwaji Akinsefunmi
-Published by [MasterCraft](https://github.com/IAmMasterCraft/)
-    Inspired and tested by 
-[Isaac Kelvin OziKelvin](https://github.com/ozikelvin)
+Published by [MasterCraft](https://github.com/IAmMasterCraft/) <br>
+Inspired and tested by [Isaac Kelvin OziKelvin](https://github.com/ozikelvin)
 
 ## Usage
 ```javascript
