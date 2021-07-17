@@ -9,9 +9,9 @@ With YARN:
 
 ## Author
     Boluwaji Akinsefunmi
-[MasterCraft](https://github.com/IAmMasterCraft/)
-    Inspired by Isaac Kelvin
-[OziKelvin](https://github.com/ozikelvin)
+Published by [MasterCraft](https://github.com/IAmMasterCraft/)
+    Inspired by 
+[Isaac Kelvin OziKelvin](https://github.com/ozikelvin)
 
 ## Usage
 ```javascript
