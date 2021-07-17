@@ -1,0 +1,21 @@
+{
+  "name": "decipher-jwt",
+  "version": "1.0.0",
+  "description": "A simple node package that can be used to decipher jwt",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon package.js"
+  },
+  "keywords": [
+    "jwt",
+    "decipher",
+    "decrypt",
+    "token"
+  ],
+  "author": "MasterCraft",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
