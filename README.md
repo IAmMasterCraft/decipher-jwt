@@ -7,6 +7,8 @@
 ## Author
     Boluwaji Akinsefunmi
 [MasterCraft](https://github.com/IAmMasterCraft/)
+    Inspired by Isaac Kelvin
+[OziKelvin](https://github.com/ozikelvin)
 
 ## Usage
 ```javascript
