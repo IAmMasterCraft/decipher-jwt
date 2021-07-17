@@ -17,6 +17,7 @@ Published by [MasterCraft](https://github.com/IAmMasterCraft/)
 ```javascript
     const { decipherJwt } = require("decipher-jwt");
     const jwtToken = "Bearer xxxxxxxxxxx.xxxxxxxxx.xxxxxxx";
+    // it is not compulsory for the jwtToken string to contain 'Bearer' keyword
     console.log(decipherJwt(jwtToken));
 ```
 
