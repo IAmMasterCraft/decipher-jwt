@@ -10,7 +10,7 @@ With YARN: <br>
 ## Author
     Boluwaji Akinsefunmi
 Published by [MasterCraft](https://github.com/IAmMasterCraft/)
-    Inspired by 
+    Inspired and tested by 
 [Isaac Kelvin OziKelvin](https://github.com/ozikelvin)
 
 ## Usage
