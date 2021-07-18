@@ -1,6 +1,5 @@
 # decipher-jwt
     A simple node package that deciphers jwt token into json object
-    PS: IF IT WORKS, THEN SOMETHING IS WRONG SOMEWHERE
 
 ## Installation
      WITH NPM: $ npm install decipher-jwt
