@@ -10,7 +10,8 @@
 Published by [MasterCraft](https://github.com/IAmMasterCraft/) <br>
 Inspired and tested by: 
 - [Isaac Kelvin OziKelvin](https://github.com/ozikelvin)<br>
-- [YoungMayor](https://github.com/YoungMayor)
+- [YoungMayor](https://github.com/YoungMayor)<br>
+- [LordGhostX](https://github.com/lordghostx)
 
 ## Usage
 ```javascript
